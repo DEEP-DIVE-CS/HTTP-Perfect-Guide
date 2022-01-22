@@ -9,10 +9,15 @@ URL (Uniform Resource Locator)
 URL은 통합 자원 식별자(Uniform Resource Identifier) 의 부분집합
 URI는 URL과 URN으로 분류됨
 * URN : 리소스가 어디에 존재하든 상관없이 그 이름만으로 리소스를 식별
+
 * URL : 리소스가 어디 있는지 설명해서 리소스를 식별
-![DA6EE424-107A-448D-B6DA-A64BD9B939CD](images/2%E1%84%8C%E1%85%A1%E1%86%BC%20URL%E1%84%80%E1%85%AA%20%E1%84%85%E1%85%B5%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3/DA6EE424-107A-448D-B6DA-A64BD9B939CD.png)
+
+  ![DA6EE424-107A-448D-B6DA-A64BD9B939CD](images/2장 URL과 리소스/DA6EE424-107A-448D-B6DA-A64BD9B939CD-2864402.png)
+
 * URL은 http 프로토콜 뿐만 아니라 다른 프로토콜을 사용할 수도 있음
+
 * URL과 웹이 있기 전에는 다 제각각의 분류방식을 사용해 데이터를 교환
+
 * URL은 애플리케이션이 리소스에 접근할 수 있는 방법을 제공함
 ## 2.2 URL 문법
 URL로 인터넷 상의 모든 리소스를 찾을 수 있지만, 리소스들은 다른 스킴을 통해 접근할 수 있음
